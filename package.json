@@ -1,0 +1,24 @@
+{
+  "name": "Hiure",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.15.1",
+    "@nuxtjs/svg": "^0.1.12",
+    "is-http": "^0.0.2",
+    "nuxt": "^2.15.7",
+    "nuxt-i18n": "^6.27.3",
+    "rehype-attr": "^2.0.7",
+    "rehype-external-links": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/localforage": "^1.1.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "nuxt-windicss": "^1.1.3"
+  },
+  "type": "module"
+}
