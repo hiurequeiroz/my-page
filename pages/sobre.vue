@@ -20,4 +20,10 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+
+  .nuxt-content a {
+    color:blue;
+  }
+
+</style>

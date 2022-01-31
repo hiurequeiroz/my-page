@@ -3,6 +3,9 @@ export default {
   router: {
     base: '/'
   },
+  plugins: [
+    '@/plugins/vimg.js'
+  ],
   env: {
     tileServer: process.env.TILE_SERVER || "https://api-mapa.janeraka.org",
   },
