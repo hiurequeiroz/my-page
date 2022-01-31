@@ -6,11 +6,6 @@ author:
   bio: I am Hiure Queiroz
   image: /assets/perfil-colors.png
 ---
-<!-- 
-<author 
-    :author="author"
-></author> -->
-
 
 <v-img src="perfil-colors.png" alt="image alt text"></v-img>
 

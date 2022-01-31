@@ -47,7 +47,6 @@
 <style>
 .nuxt-link-exact-active {
   box-shadow: none;
-  opacity: 70%;
   cursor: auto;
 }
 .nuxt-link-exact-active img {
