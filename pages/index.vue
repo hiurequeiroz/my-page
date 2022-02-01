@@ -27,7 +27,7 @@
 
     <section class="sec bg-green-100/60 p-y-5">
       <div
-        class="flex flex-col w-3/5 sm:flex-row items-center justify-center items-center gap-20"
+        class="flex flex-col w-3/5 sm:w-80wv sm:flex-row items-center justify-center items-center gap-20"
       >
         <img
           src="~/assets/communitynetworks.png"
@@ -35,7 +35,7 @@
           class="transform hover:scale-110"
         />
         <div
-          class="flex flex-col items-start justify-start gap-y-15px p-25px blur-sm hover:blur-none"
+          class="flex flex-col items-start justify-start gap-y-15px lg:p-25px blur-sm hover:blur-none"
         >
           <h2 class="font-extrabold text-3xl">Community Networks</h2>
           <h3 class="text-2xl">
@@ -46,7 +46,7 @@
         </div>
       </div>
 
-      <div class="flex flex-col sm:flex-row w-80wv gap-y-30px sm:gap-x-100px ">
+      <div class="flex flex-col lg:flex-row w-80wv gap-y-30px sm:gap-x-100px ">
         <lite-youtube class="w-300px"
         videoid="KRib7hyTWMw"
         playlabel="Play: Keynote (Google I/O '18)"
