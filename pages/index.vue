@@ -47,19 +47,19 @@
       </div>
 
       <div class="flex flex-col sm:flex-row w-80wv gap-y-30px sm:gap-x-100px ">
-        <lite-youtube class="w-200px"
+        <lite-youtube class="w-300px"
         videoid="KRib7hyTWMw"
         playlabel="Play: Keynote (Google I/O '18)"
         params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
         ></lite-youtube>
 
-        <lite-youtube class="w-200px"
+        <lite-youtube class="w-300px"
         videoid="vb9GYb1j85k"
         playlabel="Play: Keynote (Google I/O '18)"
         params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
         ></lite-youtube>
 
-        <lite-youtube class="w-200px"
+        <lite-youtube class="w-300px"
         videoid="P6YDu3nKNvQ"
         playlabel="Play: Keynote (Google I/O '18)"
         params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
