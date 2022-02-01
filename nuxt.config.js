@@ -3,8 +3,10 @@ export default {
   router: {
     base: '/'
   },
+  css: ['node_modules/lite-youtube-embed/src/lite-yt-embed.css'],
   plugins: [
-    '@/plugins/vimg.js'
+    '@/plugins/vimg.js',
+    '~/plugins/youtube.client.js'
   ],
   env: {
     tileServer: process.env.TILE_SERVER || "https://api-mapa.janeraka.org",

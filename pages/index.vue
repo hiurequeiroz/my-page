@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="w-100wv">
     <Navbar></Navbar>
 
     <section class="sec sm:p-y-40">
@@ -27,7 +27,7 @@
 
     <section class="sec bg-green-100/60 p-y-5">
       <div
-        class="flex flex-col w-3/5 my-30 sm:flex-row items-center justify-center items-center gap-20"
+        class="flex flex-col w-3/5 sm:flex-row items-center justify-center items-center gap-20"
       >
         <img
           src="~/assets/communitynetworks.png"
@@ -42,18 +42,44 @@
             My lastest projetc is about Community Networks, where we work to
             figure out a solution for conectivity
           </h3>
-          <NuxtLink to="/indexproject">
-            <div
-              class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
-            >
-              <p>More about projects</p>
-            </div>
-          </NuxtLink>
+
         </div>
       </div>
+
+      <div class="flex flex-col sm:flex-row w-80wv gap-y-30px sm:gap-x-100px ">
+        <lite-youtube class="w-200px"
+        videoid="KRib7hyTWMw"
+        playlabel="Play: Keynote (Google I/O '18)"
+        params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
+        ></lite-youtube>
+
+        <lite-youtube class="w-200px"
+        videoid="vb9GYb1j85k"
+        playlabel="Play: Keynote (Google I/O '18)"
+        params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
+        ></lite-youtube>
+
+        <lite-youtube class="w-200px"
+        videoid="P6YDu3nKNvQ"
+        playlabel="Play: Keynote (Google I/O '18)"
+        params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"
+        ></lite-youtube>
+
+      </div>
+
+      <div class="flex">
+        <NuxtLink to="/indexproject">
+          <div
+            class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
+          >
+            <p>More about projects</p>
+          </div>
+        </NuxtLink>
+      </div>
+
     </section>
 
-    <section class="sec sm:p-y-40">
+    <section class="sec m-y-10 p-y-5 sm:p-y-40">
       <div
         class="flex flex-col items-start gap-y-15px p-25px blur-sm hover:blur-none"
       >

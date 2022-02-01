@@ -10,6 +10,7 @@
     "@nuxt/content": "^1.15.1",
     "@nuxtjs/svg": "^0.1.12",
     "is-http": "^0.0.2",
+    "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
     "nuxt-i18n": "^6.27.3",
     "rehype-attr": "^2.0.7",
