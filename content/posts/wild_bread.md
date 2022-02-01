@@ -24,11 +24,18 @@ Mesmo com todas as adaptações possíveis e ao longo do tempo, cheguei em algum
 - Caçarola de ferro com tampa
 - Termômetro
 
-![](/assets/images/balança.jpg)
-![](/assets/images/espatula.jpg) 
-![](/assets/images/conteiner.jpg)
-![](/assets/images/cacaroladeferro.jpg)
-![](/assets/images/termometro.jpg)
+<div class="flex flex-row">
+<v-img src="images/balança.jpg" alt="balança"></v-img>
+
+<v-img src="images/espatula.jpg" alt="espatula"></v-img>
+
+<v-img src="images/conteiner.jpg" alt="conteiner"></v-img>
+
+<v-img src="images/cacaroladeferro.jpg" alt="Caçarola"></v-img>
+
+<v-img src="images/termometro.jpg" alt="termometro"></v-img>
+
+</div>
 
 ** Todas essas ferramentas são adaptaveis/substituiveis, porém a mais difícil de substituir é o termometro pois precisamos iniciar o processo de cocção a 220°C. **
 
@@ -44,7 +51,8 @@ Inicialmente coloque 60g de farinha de trigo (metade branca e metade integral) c
 Você vai reparar que a coisa ficou feia, não se preocupe ai vai estar todo tipo de levedura, inclusive algumas indesejáveis e por isso precisamos domesticar as leveduras corretas. Repita o processo, misture uma colher dessa coisa feia a mais 60g de farinha (metade branca e metade integral) e 60g de água e deixe descanar.
 Vá repetindo esse processo até que a sua mistura se encontre com um aspecto agradável, com um cor clara e um cheiro de leite.
 
-![](/assets/images/starter.jpg)
+
+<v-img src="images/starter.jpg" alt="image alt text"></v-img>
 
 Esse é o que vamos chamar de "starter", é uma amostra da sua levedura domesticada que você pode guardar por anos desde que a alimente corretamente e quando não for usar pode congelar.
 
@@ -56,7 +64,8 @@ Eu costumo começar o pão em algum dia de noite em que eu sei que eu vou ter o 
 
 Esse é o chamado levain, e ele deve ter um aspecto vivo com muitas bolhas de CO2... mais ou menos assim:
 
-![](/assets/images/levain.jpg)
+
+<v-img src="images/levain.jpg" alt="image alt text"></v-img>
 
 ### Ingredientes
 
@@ -73,14 +82,16 @@ Nessa receita só vamos utilizar basicamente farinha, água e sal e vamos utiliz
 No processo de autólise é útil para garantir que a farinha vai incorporar toda a água possível. Cada farinha incorpora água de uma maneira diferente, as vezes a farinha já incorporou água devido ao mau armazenamento e isso pode comprometer a sua receita.
 Inicialmente vamos misturar a farinha, 700g de água e o levain e vamos reservar 50g de água e o sal. É importante nesse momento não colocar o sal porque ele atrapalha a farinha a incorporar a água.
 
-![](/assets/images/mistura.png)
+
+
+<v-img src="images/mistura.png" alt="image alt text"></v-img>
 
 Devemos misturar até obter uma massa homogênea.
 Ai a farinha vai se misturando com a água, e isso leva um tempo. Depende um pouco da farinha mas normalmente eu espero 30min.
 Depois disso eu misturo a água e o sal. Para incorporar o sal depois de já ter misturado a farinha com a água é um pouco mais difícil, então aperte bem a massa e deixa que ela passe por entre os dedos apertando bem até que se homogenize o suficiente para não ver água no fundo do pote.
 
-![](/assets/images/autolise-mistura-cobre-sal.png)
 
+<v-img src="images/autolise-mistura-cobre-sal.png" alt="image alt text"></v-img>
 
 ## Passo 2 - Fermenta e estica 
 
@@ -88,12 +99,14 @@ Nesse hora transferimos a massa para o contêiner, que é esse pode de plástico
 Essa geometria é importante pois vai manter a massa junta enquanto esse primeiro processo de fermentação acontece. Isso é importante porque é nessa hora que o glutém vai começar a se formar e queremos que ele tenha resistência para esticar e manter as bolhas de ar dentro do pão.
 Para que ele tenha essa resistência é necessário "orientar" ele por isso vamos fazer um movimento de pegar a massa, em uma lateral menor do contêiner, e esticar de baixo para cima fazendo uma espécie de dobra na massa em cima dela mesmo. Alternamos o lado e fazemos mais uma dobra.. repito isso duas vezes para cada lateral a cada 30 min.
 
-![](/assets/images/estica-puxa.png)
+
+<v-img src="images/estica-puxa.png" alt="image alt text"></v-img>
 
 Repetimos isso umas seis vezes. Na quinta vez já vamos perceber que a massa vai incorporando ar dentro e aparecem as primeiras bolhas.
 Depois disso o glutém já está preparado para crescer e segurar as bolhas de ar internamente, depois de algumas horas, vai depender da farinha e da temperatura (em dias frios isso pode significar muitas horas), a massa vai crescer por volta de 40% do seu volume. Este é o sinal de pular para o próximo passo
 
-![](/assets/images/fermentou-cresceu.png)
+
+<v-img src="images/fermentou-cresceu.png" alt="Fermentou"></v-img>
 
 ## Passo 3 - Descansa e relaxa
 
@@ -107,8 +120,10 @@ Ao virar a massa vamos precisar fazer um movimento circular com massa para que e
 
 Polvilhe um pouco de farinha em cima da massa, cubra com um pano e deixe descansar por volta de 30 min.
 
-![](/assets/images/descansa-relaxa1.png)
-![](/assets/images/descansa-relaxa2.png)
+<v-img src="images/descansa-relaxa1.png" alt="Descansa1"></v-img>
+
+<v-img src="images/descansa-relaxa2.png" alt="descansa 2"></v-img>
+
 
 ## Passo 4 - Boleando e dando forma
 
@@ -117,8 +132,10 @@ Com a espatula você raspa a mesa empurrando o pão para frente e rapidamente tr
 
 Coloque a massa (de cabeça para baixo) numa cesta para descansar na geladeira. Eu faço essa etapa já no fim do dia e coloco ela para crescer por toda noite na temperatura baixa. 
 
-![](/assets/images/dobra-puxa1.png)
-![](/assets/images/dobra-puxa2.png)
+<v-img src="images/dobra-puxa2.png" alt="image alt text"></v-img>
+
+<v-img src="images/dobra-puxa1.png" alt="image alt text"></v-img>
+
 
 ## Passo 5 - É hora de assar
 
@@ -130,8 +147,10 @@ O pão vai assar por volta de 45 min em duas etapas. A primeira por 25min com a 
 
 Assar o pão primeiro com tampa é importante para que a umidade do pão não vá embora de uma vez, é essa umidade que vai fazer toda diferença para a textura do pão. Se você não tiver uma panela com tampa metálica (por favor não coloque nada de plástico dentro do forno!), tem maneiras de umedecer o forno com um esguicho e até colocar uma forma com água mesmo com a forma a sem tampar. Ou até mesmo fazer uma tampa improvisada com papel alumínio.
 
-![](/assets/images/assar1.png)
-![](/assets/images/assar2.png)
+<v-img src="images/assar1.png" alt="Assar 1"></v-img>
+
+<v-img src="images/assar2.png" alt="assar 2"></v-img>
+
 
 Retire do forno e deixe esfriar um pouco em cima de uma superfície vazada para não umedecer por baixo.
 
@@ -139,4 +158,5 @@ Corte o pão ao meio, é bom ter uma faca boa para não acontecer acidentes. E a
 
 Se delicie com um pão saboroe com poucos ingredientes.
 
-![](/assets/images/final.jpg)
+
+<v-img src="images/final.jpg" alt="Resultado final do pao"></v-img>
