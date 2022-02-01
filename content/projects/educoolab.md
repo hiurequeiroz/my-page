@@ -9,3 +9,16 @@ date: 2020-06-13
 ---
 
 ## Educoolab
+
+Educoolab is a project that I am doing with the coolab collective, we are going to make a series of explanatory videos about community networks.
+
+</br>
+
+Veja o primeiro video da série:
+
+</br>
+
+<lite-youtube class="w-500px"
+videoid="yGJajjOnIh4"
+playlabel="Play: Keynote (Google I/O '18)"
+params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"></lite-youtube>
