@@ -2,7 +2,7 @@
   <div
     class="h-15vh bg-green-100/60 p-2 flex flex-row justify-around justify-items-center items-end sm:justify-end shadow gap-4"
   >
-    <NuxtLink to="/" class="self-center absolute top-5 left-4 sm:left-25">
+    <NuxtLink to="/" class="self-center absolute top-1 sm:top-5 left-4 sm:left-25">
       <div class="flex flex-row gap-1">
         <img
           src="~/assets/tech-heart.svg"
