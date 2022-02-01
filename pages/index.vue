@@ -25,7 +25,7 @@
       />
     </section>
 
-    <section class="sec bg-green-100/60 p-y-5">
+    <section class="sec2 bg-green-100/60 p-y-5">
       <div
         class="flex flex-col w-3/5 sm:w-80wv sm:flex-row items-center justify-center items-center gap-20"
       >
