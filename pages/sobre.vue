@@ -4,11 +4,13 @@
     <div class="w-90vw m-auto py-10px">
       <nuxt-content :document="page" />
     </div>
+ 
   </article>
 </template>
 
 <script>
 export default {
+  
   layout: "pages",
   async asyncData({ $content }) {
     const page = await $content("sobre").fetch();

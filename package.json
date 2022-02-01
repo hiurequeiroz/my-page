@@ -14,7 +14,9 @@
     "nuxt": "^2.15.7",
     "nuxt-i18n": "^6.27.3",
     "rehype-attr": "^2.0.7",
-    "rehype-external-links": "^1.0.1"
+    "rehype-external-links": "^1.0.1",
+    "vue-tweet": "^1.0.3",
+    "vue-tweet-embed": "^2.4.0"
   },
   "devDependencies": {
     "@nuxtjs/localforage": "^1.1.0",

@@ -5,6 +5,7 @@
     <div
       class="flex flex-col lg:flex-row lg:flex-wrap max-w-full lg:max-w-4/5 items-center lg:items-stretch mx-auto py-5vh"
     >
+
       <div
         v-for="(post, index) in posts"
         :key="index"
@@ -33,6 +34,7 @@
 <script>
 import getImage from '../libs/getImage'
 
+
 export default {
   layout: "pages",
   async asyncData({ $content, params }) {
@@ -48,6 +50,7 @@ export default {
       return getImage(img, true)
     },
   },
+
 };
 </script>
 <style></style>
