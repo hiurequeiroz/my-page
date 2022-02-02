@@ -21,10 +21,6 @@
         <nuxt-content :document="page" />
       </div>
 
-      <div class="border-2">
-        <Timeline id="hiure" sourceType="profile" :options="{ tweetLimit: '3' }"/>
-      </div>
-
     </div>
   </article>
 </template>
@@ -40,9 +36,6 @@ export default {
     return {
       page,
     };
-  },
-  components: {
-    Timeline,
   },
 };
 </script>
