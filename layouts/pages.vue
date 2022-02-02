@@ -29,6 +29,11 @@
   font-weight: 400;
 }
 
+.nuxt-content a {
+    color:blue;
+}
+
+
 @media screen and (min-width: 1024px) {
   .nuxt-content-container {
     max-width: 968px;

@@ -18,7 +18,7 @@ Veja o primeiro video da série:
 
 </br>
 
-<lite-youtube class="w-500px"
+<lite-youtube class="w-350px sm:w-500px md:w-600px"
 videoid="yGJajjOnIh4"
 playlabel="Play: Keynote (Google I/O '18)"
 params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"></lite-youtube>
