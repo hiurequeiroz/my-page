@@ -1,5 +1,17 @@
 <template>
 <article>
+  
+    <span class="relative top-3 left-2">
+    <NuxtLink to="/">
+          <div class="flex flex-row gap-1">
+            <img
+              src="~/assets/back.svg"
+              alt="iconeBack"
+              class="w-35px h-35px cursor-pointer"
+            />
+          </div>
+    </NuxtLink>
+    </span>
 
     <h2 class="text-3xl py-20px text-center">Blog</h2>
     <div
