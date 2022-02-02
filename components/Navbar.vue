@@ -20,7 +20,7 @@
       </div>
     </NuxtLink>
 
-    <NuxtLink to="/indexproject" class="divicone">
+    <NuxtLink to="/projects" class="divicone">
       <div class="divbtn">
         <img src="~/assets/mapa.svg" alt="iconeProjeto" class="icone" />
         <p class="pmenu">Projects</p>

@@ -68,7 +68,7 @@
       </div>
 
       <div class="flex">
-        <NuxtLink to="/indexproject">
+        <NuxtLink to="/projects">
           <div
             class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
           >

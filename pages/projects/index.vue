@@ -70,7 +70,7 @@
 </template>
 
 <script>
-import getImage from '../libs/getImage'
+import getImage from '../../libs/getImage'
 
 export default {
   layout: "pages",
