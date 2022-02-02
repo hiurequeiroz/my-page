@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { Tweet, Moment, Timeline } from 'vue-tweet-embed'
+import { Timeline } from 'vue-tweet-embed'
 
 export default {
   layout: "pages",

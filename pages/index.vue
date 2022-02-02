@@ -1,5 +1,5 @@
 <template>
-  <main class="w-100wv">
+  <main class="w-full">
     <Navbar></Navbar>
 
     <section class="sec sm:p-y-40">
@@ -79,10 +79,14 @@
 
     </section>
 
-    <section class="sec m-y-10 p-y-5 sm:p-y-40">
+    <section class="secreverse my-10 p-y-5 sm:p-y-40">
+      <div class="border-2">
+        <Timeline id="hiure" sourceType="profile" :options="{ tweetLimit: '2' }"/>
+      </div>
       <div
-        class="flex flex-col items-start gap-y-15px p-25px blur-sm hover:blur-none"
+        class="flex flex-col md:self-start items-start gap-y-15px p-25px blur-sm hover:blur-none"
       >
+        <h2 class="font-extrabold text-3xl">My Shared Content</h2>
         <h3 class="text-2xl">
           I like to share all kinds of thoughts and skills
         </h3>
@@ -99,7 +103,7 @@
       <img
         src="~/assets/blog.png"
         alt="iconeHome"
-        class="transform hover:scale-110"
+        class="md:self-start transform hover:scale-110"
       />
     </section>
 
@@ -108,6 +112,8 @@
 </template>
 
 <script>
+import { Timeline } from 'vue-tweet-embed'
+
 export default {
   async asyncData({ $content }) {
     const page = await $content("index").fetch();
@@ -121,6 +127,9 @@ export default {
         rel: "stylesheet",
       },
     ],
+  },
+    components: {
+    Timeline,
   },
 };
 </script>

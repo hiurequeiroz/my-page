@@ -13,6 +13,7 @@ export default {
       'pmenu': 'items-center px-1 font-helv text-shadow-xl text-gray-300 text-sm',
       'sec': 'flex flex-col w-full sm:flex-row items-center justify-center items-center gap-20',
       'sec2': 'flex flex-col w-full sm:flex-col items-center justify-center items-center gap-20',
+      'secreverse': 'flex flex-col-reverse w-full sm:flex-row items-center justify-center items-center gap-20',
       'divsec': 'w-full flex flex-row items-center justify-center items-center gap-20'
     },
   }
