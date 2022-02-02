@@ -19,7 +19,7 @@
             <div
               v-if="cnproject.imagem"
               :style="getBackground(cnproject.imagem)"
-              alt="imagem serviço"
+              alt="imagem cnprojeto"
               class="h-195px sm:h-auto sm:w-1/3 bg-cover bg-center"
             />
             <div class="sm:w-2/3 pl-25px py-25px rounded-3">
@@ -48,7 +48,7 @@
             <div
               v-if="sitioproject.imagem"
               :style="getBackground(sitioproject.imagem)"
-              alt="imagem serviço"
+              alt="imagem sitioprojetos"
               class="h-195px sm:h-auto sm:w-1/3 bg-cover bg-center"
             />
             <div class="sm:w-2/3 pl-25px py-25px rounded-3">
