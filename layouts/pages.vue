@@ -34,6 +34,7 @@
 }
 
 
+
 @media screen and (min-width: 1024px) {
   .nuxt-content-container {
     max-width: 968px;
