@@ -1,15 +1,15 @@
 <template>
   <article>
 
-    <span class="relative top-3 left-2">
-    <NuxtLink to="/projects">
-          <div class="flex flex-row gap-1">
+    <span class="w-35px relative top-3 left-2">
+    <NuxtLink class="w-35px" to="/projects">
+          <!-- <div class="w-35px flex flex-row gap-1"> -->
             <img
               src="~/assets/back.svg"
               alt="iconeBack"
               class="w-35px h-35px cursor-pointer"
             />
-          </div>
+          <!-- </div> -->
     </NuxtLink>
     </span>
 

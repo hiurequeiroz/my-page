@@ -2,7 +2,7 @@
   <main class="w-full">
     <Navbar></Navbar>
 
-    <section class="sec sm:p-y-40">
+    <section class="sec p-y-10 sm:p-y-40">
       <div
         class="flex flex-col items-start gap-y-15px p-25px blur-sm hover:blur-none"
       >
@@ -25,22 +25,21 @@
       />
     </section>
 
-    <section class="sec2 bg-green-100/60 p-y-5">
+    <section class="sec2 bg-green-100/60 p-y-5 pb-20">
       <div
-        class="flex flex-col w-3/5 sm:w-80wv sm:flex-row items-center justify-center items-center gap-20"
+        class="flex flex-col w-full sm:w-80wv sm:flex-row items-center justify-center gap-20"
       >
+        <h2 class="font-extrabold text-3xl">Community Networks</h2>
         <img
           src="~/assets/communitynetworks.png"
           alt="imgcomunity"
-          class="transform hover:scale-110"
+          class="md:relative md:top-3 md:left-6 self-center transform hover:scale-110"
         />
         <div
-          class="flex flex-col items-start justify-start gap-y-15px lg:p-25px blur-sm hover:blur-none"
+          class="flex flex-col items-start justify-start sm:w-350px gap-y-15px lg:p-25px blur-sm hover:blur-none"
         >
-          <h2 class="font-extrabold text-3xl">Community Networks</h2>
-          <h3 class="text-2xl">
-            My lastest projetc is about Community Networks, where we work to
-            figure out a solution for conectivity
+            <h3 class="text-justify text-2xl">
+            Self-governed and owned telecommunications infrastructure.
           </h3>
 
         </div>
@@ -67,39 +66,41 @@
 
       </div>
 
-      <div class="flex">
+      <div class="relative top-2">
         <NuxtLink to="/projects">
           <div
             class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
           >
-            <p>More about projects</p>
+            <p class="text-center">Related projects</p>
           </div>
         </NuxtLink>
       </div>
 
     </section>
 
-    <section class="secreverse my-10 p-y-5 sm:p-y-40">
+    <section class="secreverse my-10 p-y-5 sm:p-y-20">
+      <h2 class="md:absolute md:top-430 order-3 font-extrabold text-3xl">My Shared Content</h2>
       <div class="border-2">
         <Timeline id="hiure" sourceType="profile" :options="{ tweetLimit: '2' }"/>
       </div>
-      <div
-        class="flex flex-col md:self-start items-start gap-y-15px p-25px blur-sm hover:blur-none"
-      >
-        <h2 class="font-extrabold text-3xl">My Shared Content</h2>
-        <h3 class="text-2xl">
-          I like to share all kinds of thoughts and skills
-        </h3>
-        <h3 class="text-2xl">Checkout my blog with tips and tutorials</h3>
 
+      <div
+        class="flex flex-col md:self-start items-center gap-y-15px p-25px blur-sm hover:blur-none"
+      >
+        
+        <h3 class="text-center text-2xl">
+          Thoughts, tips and tutorials
+        </h3>
+        
         <NuxtLink to="/blog">
           <div
-            class="flex flex-row items-center justify-center h-50px w-150px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
-          >
-            <p>My Blog</p>
+                class="flex flex-row items-center justify-center h-50px w-150px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
+              >
+          <p>My Blog</p>
           </div>
         </NuxtLink>
       </div>
+
       <img
         src="~/assets/blog.png"
         alt="iconeHome"

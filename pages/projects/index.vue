@@ -1,23 +1,24 @@
 <template>
 <article>
 
-    <span class="relative top-3 left-2">
-    <NuxtLink to="/">
-          <div class="flex flex-row gap-1">
+    <span class="w-35px relative top-3 left-2">
+    <NuxtLink class="w-35px" to="/">
+          <!-- <div class="w-35px flex flex-row gap-1"> -->
             <img
               src="~/assets/back.svg"
               alt="iconeBack"
               class="w-35px h-35px cursor-pointer"
             />
-          </div>
+          <!-- </div> -->
     </NuxtLink>
     </span>
 
     <h2 class="text-3xl py-20px text-center">Projects</h2>
 
 
-    <div>
-        <h3 class="text-2xl text-left absolute left-4 sm:left-25" >Community Networks</h3>
+    <div class="border-2 p-y-2">
+        <h3 class="underline text-2xl text-center left-4 sm:left-25" >Community Networks</h3>
+        <p>My latest projects related to Community Networks</p>
       <div
         class="flex flex-col lg:flex-row lg:flex-wrap max-w-full lg:max-w-4/5 items-center lg:items-stretch mx-auto py-5vh"
       >
@@ -45,8 +46,8 @@
       </div>
 
 
-    <div>
-        <h3 class="text-2xl text-left absolute left-4 sm:left-25" >Sitio do Astronauta</h3>
+    <div class="border-2 p-y-4">
+        <h3 class="underline text-2xl text-center left-4 sm:left-25" >Sitio do Astronauta</h3>
       <div
         class="flex flex-col lg:flex-row lg:flex-wrap max-w-full lg:max-w-4/5 items-center lg:items-stretch mx-auto py-5vh"
       >
