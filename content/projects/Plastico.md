@@ -10,11 +10,11 @@ date: 2020-06-13
 
 ## Plastico Maravilha
 
-Inspirado em [Precious Plastic](https://preciousplastic.com/) O projeto plastico Maravilha foi idealizado pelo conetivo [Sitio do Astronauta](https://sitiodoastronauta.com.br)
+Inspired by [Precious Plastic](https://preciousplastic.com/) The plastic project Maravilha was conceived by the collective[Sitio do Astronauta](https://sitiodoastronauta.com.br)
 
 </br>
 
-Veja o video
+Watch the video
 
 
 </br>
@@ -27,6 +27,6 @@ params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"></lite-
 
 </br>
 
-Mais em:
+More:
 
 https://sitiodoastronauta.com.br/projetos-e-pesquisas/plastico-maravilha/

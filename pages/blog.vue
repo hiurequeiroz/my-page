@@ -1,30 +1,31 @@
 <template>
-<article>
-  
+  <article>
     <span class="w-35px relative top-3 left-2">
-    <NuxtLink class="w-35px" to="/">
-          <!-- <div class="w-35px flex flex-row gap-1"> -->
-            <img
-              src="~/assets/back.svg"
-              alt="iconeBack"
-              class="w-35px h-35px cursor-pointer"
-            />
-          <!-- </div> -->
-    </NuxtLink>
+      <NuxtLink class="w-35px" to="/">
+        <!-- <div class="w-35px flex flex-row gap-1"> -->
+        <img
+          src="~/assets/back.svg"
+          alt="iconeBack"
+          class="w-35px h-35px cursor-pointer"
+        />
+        <!-- </div> -->
+      </NuxtLink>
     </span>
 
     <h2 class="text-3xl py-20px text-center">Blog</h2>
     <div
       class="flex flex-col lg:flex-row lg:flex-wrap max-w-full lg:max-w-4/5 items-center lg:items-stretch mx-auto py-5vh"
     >
-
       <div
         v-for="(post, index) in posts"
         :key="index"
         class="w-90vw lg:w-70vw xl:w-1/3 max-w-full md:max-w-1/2 border-2 shadow-xl rounded my-5px bg-green-50"
       >
         <!-- <a target="_blank" :href="post.link" class="flex flex-col sm:flex-row"> -->
-        <NuxtLink :to="{ name: 'posts-slug', params: { slug: post.slug } }" class="flex flex-col sm:flex-row">
+        <NuxtLink
+          :to="{ name: 'posts-slug', params: { slug: post.slug } }"
+          class="flex flex-col sm:flex-row bg-[url('/assets/bg-coolab.png')]"
+        >
           <div
             v-if="post.imagem"
             :style="getBackground(post.imagem)"

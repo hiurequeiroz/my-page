@@ -6,6 +6,7 @@
       <div
         class="flex flex-col items-start justify-items-center gap-y-15px p-25px blur-sm hover:blur-none"
       >
+        <h1 class="hidden">Hiure Queiroz</h1>
         <h3 class="text-2xl">Hello</h3>
         <h3 class="font-extrabold text-5xl text-left tracking-tighter">I am Hiure Queiroz</h3>
         <!-- <h2 class="font-serif">I am Hiure Queiroz</h2> -->
@@ -89,7 +90,7 @@
         class="flex flex-col md:self-start items-center gap-y-15px p-25px blur-sm hover:blur-none"
       >
         
-        <h3 class="text-center text-2xl">
+        <h3 class="text-center text-2xl tracking-tighter">
           Thoughts, tips and tutorials
         </h3>
         
