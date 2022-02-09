@@ -1,5 +1,5 @@
 <template>
-  <picture class="image">
+  <picture class="image mx-auto">
     <img
       :src="imgSrc"
       :alt="alt"
