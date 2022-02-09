@@ -18,6 +18,6 @@ Veja o primeiro video da série:
 
 </br>
 
-<lite-youtube class="mx-auto w-350px sm:w-500px md:w-600px"
+<lite-youtube class="w-350px sm:w-500px md:w-600px"
 videoid="yGJajjOnIh4"
 playlabel="Play: Keynote (Google I/O '18)"></lite-youtube>

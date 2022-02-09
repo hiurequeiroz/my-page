@@ -21,6 +21,6 @@ See the movie
 </br>
 
 
-<lite-youtube class="mx-auto md:left-20 w-350px sm:w-500px md:w-full"
+<lite-youtube class="md:left-20 w-350px sm:w-500px md:w-full"
 videoid="hUlhmBF6Bms"
 playlabel="Play: Keynote (Google I/O '18)"></lite-youtube>
