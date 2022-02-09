@@ -4,6 +4,7 @@
       :src="imgSrc"
       :alt="alt"
       draggable="false"
+      class="mx-auto"
     >
   </picture>
 </template>

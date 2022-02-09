@@ -21,8 +21,7 @@ Watch the video
 
 <lite-youtube class="w-350px sm:w-500px md:w-600px"
 videoid="mw3plmcpLjo"
-playlabel="Play: Keynote (Google I/O '18)"
-params="controls=0&start=10&end=30&modestbranding=2&rel=0&enablejsapi=1"></lite-youtube>
+playlabel="Play: Keynote (Google I/O '18)"></lite-youtube>
 
 
 </br>

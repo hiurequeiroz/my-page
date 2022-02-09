@@ -14,8 +14,8 @@
     </span>
 
     <h2 class="text-3xl text-center pb-2vh">{{ page.titulo }}</h2>
-    <div class="w-90vw m-auto py-10px">
-      <nuxt-content :document="page" />
+    <div class="w-90vw mx-auto py-10px">
+      <nuxt-content class="mx-auto" :document="page" />
     </div>
  
   </article>
@@ -39,6 +39,9 @@ export default {
 
   .nuxt-content a {
     color:blue;
+  }
+  .nuxt-content {
+    margin: auto;
   }
 
 </style>
