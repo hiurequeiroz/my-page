@@ -4,17 +4,18 @@
 
     <section class="sec p-y-10 sm:p-y-40">
       <div
-        class="flex flex-col items-start gap-y-15px p-25px blur-sm hover:blur-none"
+        class="flex flex-col items-start justify-items-center gap-y-15px p-25px blur-sm hover:blur-none"
       >
         <h3 class="text-2xl">Hello</h3>
-        <h2 class="font-extrabold text-5xl">I am Hiure Queiroz</h2>
+        <h3 class="font-extrabold text-5xl text-left tracking-tighter">I am Hiure Queiroz</h3>
+        <!-- <h2 class="font-serif">I am Hiure Queiroz</h2> -->
         <h3 class="text-2xl">Developer / Researcher / Physicist</h3>
 
         <NuxtLink to="/sobre">
           <div
-            class="flex flex-row items-center justify-center h-50px w-150px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
+            class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
           >
-            <p>More about me</p>
+            <p class="align-middle text-center">More about me</p>
           </div>
         </NuxtLink>
       </div>
@@ -36,9 +37,9 @@
           class="md:relative md:top-3 md:left-6 self-center transform hover:scale-110"
         />
         <div
-          class="flex flex-col items-start justify-start sm:w-350px gap-y-15px lg:p-25px blur-sm hover:blur-none"
+          class="flex flex-col items-start justify-center sm:w-350px gap-y-15px lg:p-25px blur-sm hover:blur-none"
         >
-            <h3 class="text-justify text-2xl">
+            <h3 class="text-center text-2xl">
             Self-governed and owned telecommunications infrastructure.
           </h3>
 
@@ -71,7 +72,7 @@
           <div
             class="flex flex-row items-center justify-center h-50px w-200px border-2 rounded-4xl bg-green-300 transform hover:scale-110"
           >
-            <p class="text-center">Related projects</p>
+            <p class="text-center tracking-tighter">Related projects</p>
           </div>
         </NuxtLink>
       </div>

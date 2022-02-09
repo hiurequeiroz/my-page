@@ -3,7 +3,7 @@ export default {
       /* ... */
       fontFamily: {
         term: ['Monaco', 'Bitstream Vera Sans Mono', 'Lucida Console', 'Terminal', 'monospace'],
-        helv: ['Helvetica', 'Arial', 'sans-serif']
+        // helv: ['Helvetica', 'Arial', 'sans-serif']
       }
     },
     shortcuts: {

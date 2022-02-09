@@ -39,36 +39,31 @@
         <!-- </a> -->
       </div>
     </div>
-
-</article>
+  </article>
 </template>
 
 <script>
-import getImage from '../libs/getImage'
-
+import getImage from "../libs/getImage";
 
 export default {
   layout: "pages",
   async asyncData({ $content, params }) {
-    const posts = await $content('posts', params)
-    .where({ ativo: { $in: ['sim', 'Sim', 'si', 's'] } })
-    .fetch();
+    const posts = await $content("posts", params)
+      .where({ ativo: { $in: ["sim", "Sim", "si", "s"] } })
+      .fetch();
     return {
       posts,
     };
   },
   methods: {
     getBackground(img) {
-      return getImage(img, true)
+      return getImage(img, true);
     },
   },
-
 };
 </script>
 <style>
-  .nuxt-content a {
-    color:blue;
-  }
-
-
+.nuxt-content a {
+  color: blue;
+}
 </style>
