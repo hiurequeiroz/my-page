@@ -7,21 +7,29 @@ author:
   image: /assets/perfil-colors.png
 ---
 
-<v-img src="perfil-colors.png" alt="image alt text"></v-img>
+<v-img src="monoblaster.jpg" alt="image alt text"></v-img>
 
-Um apaixonado por aprender coisas novas me formei em Física e segui a carreira academica cursando o mestrado em Ciência dos Materiais pelo Instituto Tecnológico de Aeronáutica (ITA) e depois de ter iniciado o doutorado em Física percebi que a minha vida era mais com as comunidades do que com a academia.
-Segui o sonho de trabalhar com tecnologias e ajudei a fundar o <a href="https://sitiodoastronauta.com.br">Sitio do Astronauta – Arte e tecnologia  LTDA</a> um coletivo de estudo e desenvolvimento de ciência e tecnologias que impulsiona experiências de aprendizagem e expressão artística. Sempre com o objetivo de conciliar técnicas artesanais, materiais simples e eletrônica para potencializar a construção de objetos com tecnologias acessíveis, referente as suas necessidades focado no autodesenvolvimento e trabalho coletivo. O coletivo se popularizou através da promoção de seminários e workshops inspirados na cultura do faça-você-mesmo. 
+</br>
 
-Como esse trabalho foi um dos selecionados no edital [MakersEduca da fundação Lemann](http://www.fundacaolemann.org.br/makers/), para iniciativas makers na comunidade. As atividades desenvolvidas junta a escola Estadual de Sobradinho.
-Sendo ainda selecionado para compor o Instituto da Aprendizagem Criativa com o grupo de pesquisa [Lemann Creative Learning](https://llk.media.mit.edu/projects/4633/) do MIT MediaLab.
-Fundador do espaço do fazer, no [instituto pandavas](http://institutopandavas.org.br), com a missão de desenvolver habilidades por meio do fazer baseado no livre fazer partindo da segurança no uso de ferramentas e equipamentos.
+A passionate learner of new things I graduated in Physics and followed my academic career attending a Masters in Materials Science at the Instituto Tecnológico de Aeronáutica (ITA) and after starting my PhD in Physics I realized that my life was more about communities than academia.
+I followed my dream of working with technologies and helped found the [Sitio do Astronauta - Arte e tecnologia LTDA](https://sitiodoastronauta.com.br) a collective for the study and development of science and technologies that drives learning experiences and artistic expression. Always aiming to reconcile craft techniques, simple materials and electronics to enhance the construction of objects with accessible technologies, referring to their needs focused on self-development and collective work. The collective has become popular through the promotion of seminars and workshops inspired by the do-it-yourself culture.
 
-O que levou a projetos como a [Cabine Tecnomistica](https://cabinetecnomistica.com.br), que é um desdobramento do projeto Tecnomisticismo feito pelo [circuito Sesc de Artes 2017](https://www.youtube.com/watch?v=82tkY-XSw-0), que busca trazer a tecnologia através de uma liguagem do misticismo.
+</br>
 
-E mais recentemente a partir da refelxão sobre o uso das impressoras 3D e o uso do plastico, o projeto [Plastico Maravilha](https://plasticomaravilha.com.br)
+As this work was one of those selected in the [MakersEduca of the Lemann foundation](http://www.fundacaolemann.org.br/makers/), for makers initiatives in the community. The activities developed join the Sobradinho State school.
+He was also selected to compose the Creative Learning Institute with the research group [Lemann Creative Learning](https://llk.media.mit.edu/projects/4633/) of MIT MediaLab.
+Founder of the space to do, at [pandavas institute](http://institutopandavas.org.br), with the mission to develop skills through free doing based on the safe use of tools and equipment.
 
-Hiure é um pesquisador muito dedicado, responsável por alguns desenvolvimentos técnicos e soluções importantes atualmente fornecidos pela [Coolab](https://coolab.org).
+</br>
 
-Integrante da Coolab, um coletivo que capta recursos e investe, através de chamadas públicas, em comunidades rurais e/ou periféricas para desenvolvimento humano através de redes de internet comunitárias com uma metodologia de troca de conhecimentos para o desenvolvimento técnico e social. Tendo várias experiencias de campo trabalhou na execussão de deiversas instalações pela coolab nas instalações da aldeia Boa vista em Ubatuba-SP, Portal Sem Porteiras em Monteiro Lobato -Sp e tem feito um estudo para uma nova rede comunitária em [Shulinab na Guiana](http://blog.altermundi.net/article/coolab-visita-tecnica-guyana-wapichan/). Organizou o [coolabcamp](http://www.coolab.org/2018/01/20/coolab-camp-redes-livres-mao-na-massa/) uma imersão para troca horizontal de conhecimentos sobre redes comunitárias. Participou da [Primeiro Cúpula Latinoamericana de redes comunitárias](http://cnsig.info/cumbre/lac/2018/09/17/Cumbre-Latinoamericana.html) e do [IGF 2018](https://www.intgovforum.org/multilingual/content/igf-2018-0). Tem apoiado a comunidade de desenvolvimento de software e hardware disponivel em [wiki]http://wiki.coolab.org.
+Which led to projects like [Cabine Tecnomistica](https://cabinetecnomistica.com.br), which is an offshoot of the Tecnomisticismo project made by the [Sesc Arts circuit 2017](https://www.youtube.com/watch?v=82tkY-XSw-0), which seeks to bring technology through a liguage of mysticism.
+And more recently from the reflection on the use of 3D printers and the use of plastics, the [Wonder Plastic] project (https://plasticomaravilha.com.br)
 
-Ele participa da rede comunitária [Portal Sem Porteiras](https://portalsemporteiras.github.io) há 4 ano, trocando conhecimentos em muitos eventos e encontros, e foi designado pela Coolab para fazer viagens e trocas de conhecimento com Redes Comunitárias no México, Colombia e nos EUA. Ele também participou da Primeira Cúpula Latino-Americana de Redes Comunitárias, e está trabalhando no desenvolvimento de software e hardware para redes comunitárias, disponibilizando toda a documentação em http://wiki.coolab.org e https://hiurequeiroz.github.io.
+</br>
+
+I am very dedicated researcher, responsible for some important technical developments and solutions currently provided by [Coolab](https://coolab.org).
+Member of Coolab, a collective that raises funds and invests, through public calls, in rural and/or peripheral communities for human development through community internet networks with a methodology of knowledge exchange for technical and social development. Having several field experiences, he has worked in the execution of several installations by coolab in the village facilities of Boa vista in Ubatuba-SP, Portal Sem Porteiras in Monteiro Lobato -Sp and has been doing a study for a new community network in [Shulinab in Guyana](http://blog.altermundi.net/article/coolab-visita-tecnica-guyana-wapichan/). Organized the [coolabcamp](http://www.coolab.org/2018/01/20/coolab-camp-redes-livres-mao-na-massa/) an immersion for horizontal knowledge exchange about community networks. Participated in the [First Latin American Summit of Community Networks](http://cnsig.info/cumbre/lac/2018/09/17/Cumbre-Latinoamericana.html) and the [IGF 2018](https://www.intgovforum.org/multilingual/content/igf-2018-0). He has supported the software and hardware development community available at [wiki]http://wiki.coolab.org.
+
+</br>
+
+I have participated in the community network [Portal Without Gates](https://portalsemporteiras.github.io) for 4 year, exchanging knowledge in many events and meetings, and has been assigned by Coolab to make trips and knowledge exchanges with Community Networks in Mexico, Colombia and the USA. He also participated in the First Latin American Summit of Community Networks, and is working on software and hardware development for community networks, making all documentation available at http://wiki.coolab.org.
