@@ -4,7 +4,7 @@
       :src="imgSrc"
       :alt="alt"
       draggable="false"
-      class="mx-auto"
+      :class="classe"
     >
   </picture>
 </template>
@@ -20,6 +20,10 @@ export default {
     alt: {
       type: String,
       required: true
+    },
+    classe: {
+      type: String,
+      required: false
     }
   },
   computed: {
